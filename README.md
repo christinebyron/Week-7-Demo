@@ -10,3 +10,6 @@ The steps taken include
     4.    Merge request into master branch
     5.    Merge code into the staging environment
     6.    Push validated changes into production
+
+
+Badge Status will show whether commited code changes were successful: [![CircleCI](https://circleci.com/gh/christinebyron/Week-7-Demo.svg?style=svg)](https://circleci.com/gh/christinebyron/Week-7-Demo)
